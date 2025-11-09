@@ -1,0 +1,1 @@
+Developed a To-Do List application using HTML, CSS, and JavaScript that allows users to create, edit, and delete tasks dynamically. Implemented local storage to save user data and ensure persistence even after page reload. Focused on responsive and user-friendly UI design.
